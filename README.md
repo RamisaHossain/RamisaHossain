@@ -1,47 +1,47 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKh9t6/giphy.gif" width="150"/>
 </p>
 
-<h1 align="center">Hi, I'm Ramisa 👋</h1>
-<p align="center">Student exploring Computer Science | AI, Algorithms & Web Development | Always learning & building</p>
+<h1 align="center">Hi, I'm Ramisa Hossain 👋</h1>
+<p align="center">Exploring Computer Science | Building Projects | Problem Solver | Always Learning</p>
 
 ---
 
-## 🌟 About Me
-- 🎓 Currently exploring different fields of Computer Science  
-- 💡 Passionate about AI, problem-solving & coding challenges  
-- 🚀 Learning to turn ideas into projects and clean code  
+## 💡 About Me
+<p align="center">
+- 🚀 Passionate about coding, algorithms, and web development  
+- 🎯 Focused on learning real-world projects & DSA  
+- 🧩 Love solving challenges & building clean, functional code  
+</p>
 
 ---
 
 ## 🛠 Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <span style="background:#e34f26; color:white; padding:4px 8px; border-radius:5px;">HTML</span>
+  <span style="background:#1572B6; color:white; padding:4px 8px; border-radius:5px;">CSS</span>
+  <span style="background:#F7DF1E; color:black; padding:4px 8px; border-radius:5px;">JavaScript</span>
+  <span style="background:#F05032; color:white; padding:4px 8px; border-radius:5px;">Git</span>
+  <span style="background:#007ACC; color:white; padding:4px 8px; border-radius:5px;">VS Code</span>
 </p>
 
 ---
 
-## 💻 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Practice Project | Basic coding & practice | [Repo](https://github.com/yourusername/Practice-Project) |
-| Portfolio Website | Personal portfolio | [Website](https://yourportfolio.com) |
-| Algorithm Challenges | DSA & problem-solving | [Repo](https://github.com/yourusername) |
-
-> Tip: Pin these repos in your GitHub profile to highlight them
+## 💻 Featured Projects
+<p align="center">
+<a href="https://github.com/yourusername/Practice-Project" target="_blank">📌 Practice Project</a> &nbsp;|&nbsp;
+<a href="https://yourportfolio.com" target="_blank">🌐 Portfolio Website</a> &nbsp;|&nbsp;
+<a href="https://github.com/yourusername/Algo-Challenges" target="_blank">⚡ Algorithm Challenges</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&count_private=true" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula" width="400"/>
 </p>
 
 ---
@@ -62,6 +62,9 @@
 
 ---
 
-### 🎯 Fun Fact
-- I love solving puzzles 🧩 and learning new technologies 💻  
-- Always exploring ideas and improving myself 💡
+## ✨ Fun & Personal Flair
+<p align="center">
+- 🌙 Night owl coder  
+- ☕ Powered by coffee and curiosity  
+- 🧠 Always exploring new technologies and improving myself  
+</p>
